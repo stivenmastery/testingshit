@@ -1,0 +1,12 @@
+.hola {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: blue;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 10px 10px 10px 10px;
+    border: red solid 15px;
+    text-align: center;
+}
+.text-center {
+    text-align: center;
+}
